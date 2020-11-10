@@ -14,7 +14,9 @@
 ### Let's Connect !!!
 
 Mail Id : singla45567@gmail.com , rohitsingla467@gmail.com
+
 Contact Number : 7742466433
+
 LinkedIn : https://www.linkedin.com/in/mohit-kumar-73528918b/
 
 <a href="https://www.linkedin.com/in/mohit-kumar-73528918b/">
