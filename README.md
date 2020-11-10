@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to My GitHub profile.
 
-##### My name is Mohit Kumar, final year of University of Petroleum and Energy Studies(UPES), DevSecOps engineer, currently looking for Job.
+#### My name is Mohit Kumar, final year of University of Petroleum and Energy Studies(UPES), DevSecOps engineer, currently looking for Job.
 #### Recently Participated in Global Coding Challenge(GCC) organized by Credit Suisse. Rank 01 in Other Reason.
 
 - 🔭 I’m currently working on Data Structure, Dynamic Programing, and HackerRank Problem Solving.
